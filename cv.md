@@ -22,4 +22,4 @@ return a * b
 
 7.**Higher education. Specialty - construction of thermal and nuclear power plants.**  
 
-8.**English level - A1.**
+8.**English level - A2.**
